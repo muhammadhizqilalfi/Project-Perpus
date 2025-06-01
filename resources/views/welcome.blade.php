@@ -10,7 +10,7 @@
 
     <div class="text-center px-4">
         <!-- Logo -->
-        <img src="{{ asset('images/Logo.jpg') }}" alt="Logo Labirin Kata" class="mx-auto w-32 h-32 mb-6 rounded-full shadow-lg">
+        <img src="{{ asset('images/Logo.png') }}" alt="Logo Labirin Kata" class="mx-auto w-32 h-32 mb-6 rounded-full shadow-lg">
 
         <!-- Judul -->
         <h1 class="text-4xl font-bold mb-2">Selamat Datang di <span class="text-yellow-600">Labirin Kata</span></h1>
