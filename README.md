@@ -1,4 +1,4 @@
-<p align="center"><img src = "/image/Logo2.png" width=100px></p>
+<p align="center"><img src = "/image/Logo2.png" width=200px></p>
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -117,8 +117,8 @@ Web ini memiliki user interface dan beberapa fitur :
 - Canva   : https://www.canva.com/design/DAGpJN902fs/WrSsXJBn0OhjxsGWwpnUTg/edit?utm_content=DAGpJN902fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Gambar
-<p align="center"><img src = "/image/Gambar1.png" width=200px></p>
-<p align="center"><img src = "/image/Gambar2.png" width=200px></p>
-<p align="center"><img src = "/image/Gambar3.png" width=200px></p>
-<p align="center"><img src = "/image/Gambar4.png" width=200px></p>
+<p align="center"><img src = "/image/Gambar1.png" width=500px></p>
+<p align="center"><img src = "/image/Gambar2.png" width=500px></p>
+<p align="center"><img src = "/image/Gambar3.png" width=500px></p>
+<p align="center"><img src = "/image/Gambar4.png" width=500px></p>
 
